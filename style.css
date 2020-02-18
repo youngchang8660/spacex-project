@@ -1,0 +1,198 @@
+body {
+    height: 200vh;
+    position: relative;
+}
+
+.header {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: flex;
+}
+
+
+div {
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+}
+
+.falconSection {
+    border: 1px solid black;
+    width: 33%;
+    display: flex;
+    justify-self: flex-start;
+    align-self: auto;
+}
+
+.menu, .menu2 {
+    margin: 0px 10px 0px 10px;
+}
+
+
+
+.aboutUs {
+    display: flex;
+}
+
+.logoImage {
+    width: 150px;
+    height: 60px;
+}
+
+.bodySection {
+    position: relative;
+    border: 1px solid black;
+    width: 100%;
+    height: 700px;
+}
+
+.missions {
+    position: absolute;
+    bottom: 50px;
+    border: 1px solid black;
+    background-color: #20272b;
+    height: 150px;
+    width: 100%;
+    opacity: 0.3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.falcon9 {
+    width: 100%;
+    height: 700px;
+}
+
+.threeBox {
+    border: 1px solid black ;
+    background-color: #21272c;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    bottom: 0px;
+    opacity: 0.5;
+}
+
+h1 {
+   font-size: 40px; 
+   color: white;
+   opacity: 2;
+}
+
+.learnMore {
+    border: 2px solid black;
+    background-color: white;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.spaceDesignText {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bottomSection {
+    width: 100%;
+    height: 500px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.mainBox {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.boxOne, .boxTwo, .boxThree{
+    border: 0.5px solid #A9A9A9;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 5px 5px #A9A9A9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img1, .img2, .img3 {
+    width:250px;
+    height: 130px;
+    position: relative;
+    top: 20px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font: 30px;
+    font-weight: bold;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+
+.bottomImg {
+    width: 100px;
+}
+
+.leftFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu3 {
+    margin: 0px 10px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
